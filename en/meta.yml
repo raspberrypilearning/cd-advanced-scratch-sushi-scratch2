@@ -1,11 +1,23 @@
-title: cd-advanced-scratch-sushi-scratch2
+title: Advanced Scratch Sushi Cards
 hero_image: images/banner.png
-description: cd-advanced-scratch-sushi-scratch2 description
-version: 4
+description: Make a platform-style game and add your own levels, powers, and characters.
+theme: orange
 listed: false
-copyedit: false
-last_tested: "2018-12-19"
+copyedit: true
+curriculum: 2, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+interests: games
+technologies: scratch
+site_areas: coderdojo
+software: scratch
+version: 4.0.0
+last_tested: "2018-04-23"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Setting things up
+  - title: Losing the game
+  - title: Power-ups
+  - title: Super power-ups!
+  - title: Adding some competition
+  - title: Level 2
+  - title: Moving platforms
   - title: What next?
